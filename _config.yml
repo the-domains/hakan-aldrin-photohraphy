@@ -1,14 +1,26 @@
-layout_spectrum: 0.6477749
-typography_spectrum: 0.2164083
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.1003986
+  brandStrength: 0.5595745
   lightness: 0.2901496
-  brandStrength: 0.5580295
-  rhythmicContrast: 0.5323494
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#070709'
+    - '#6196CA'
+    - '#83483A'
+    - '#C58E6F'
+    - '#E8D2C3'
+  rhythmicContrast: 0.5323494
+typography_spectrum: 0.2164083
+layout_spectrum: 0.6477749
 name: Hakan Aldrin Photohraphy
