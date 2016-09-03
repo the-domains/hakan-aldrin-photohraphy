@@ -1,3 +1,17 @@
+typography_spectrum: 0.2164083
+color:
+  saturation: 0.1003986
+  brandStrength: 0.5595745
+  lightness: 0.2901496
+  brandColors:
+    - '#070709'
+    - '#6196CA'
+    - '#83483A'
+    - '#C58E6F'
+    - '#E8D2C3'
+  rhythmicContrast: 0.5323494
+layout_spectrum: 0.6468085
+name: Hakan Aldrin Photohraphy
 collections:
   - index:
       path: /
@@ -10,17 +24,3 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.1003986
-  brandStrength: 0.5595745
-  lightness: 0.2901496
-  brandColors:
-    - '#070709'
-    - '#6196CA'
-    - '#83483A'
-    - '#C58E6F'
-    - '#E8D2C3'
-  rhythmicContrast: 0.5323494
-typography_spectrum: 0.2164083
-layout_spectrum: 0.6468085
-name: Hakan Aldrin Photohraphy
